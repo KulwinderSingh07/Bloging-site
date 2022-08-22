@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Wedding night",
+      "body": "why do we use it?",
+      "author": "Aulakh",
+      "id": 2
+    },
+    {
+      "title": "Campus Tour",
+      "body": "it was an extraorinary experience",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
